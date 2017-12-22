@@ -6,12 +6,11 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import TodoList from './components/TodoList';
 
 export default {
-  name: 'app',
   components: {
-    HelloWorld,
+    TodoList,
   },
 };
 </script>
