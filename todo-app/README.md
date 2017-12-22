@@ -1,4 +1,4 @@
-# learning vue todo-app
+learning vue todo-app
 
 ##Why did you choose this subject?
 * I chose to begin learning vue because it has similarities to react and according to my instructors, it is becoming popular in the industry.
